@@ -1,6 +1,6 @@
 # Emotion Detector - NLP Based
 
-A Natural Language Processing (NLP) project designed to detect and classify emotions from text data.
+A Natural Language Processing (NLP) project designed to detect and classify six emotions from text data.
 
 ## 📋 Overview
 
